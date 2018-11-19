@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1542631759 source:c:\users\gabriela\desktop\new folder (13)\playfair\main.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
